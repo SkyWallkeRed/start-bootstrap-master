@@ -49,3 +49,17 @@ section {
     font-weight: 400;
     margin-bottom: 75px;
 }
+
+.logoB {
+    font-size: 30px;
+}
+
+.navB {
+    padding-left: 6px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.services {
+    text-align: center;
+}
